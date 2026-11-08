@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Graphic_LR_1/Graphic_LR_1.vcxproj" Id="e921b4e8-e0b8-4c3c-b864-a56750b2790d" />
+  <Project Path="Graphic_LR_2/Graphic_LR_2.vcxproj" Id="994d3311-4195-4f2b-b7e2-a3bf6bbb4372" />
+  <Project Path="Graphic_LR_4/Graphic_LR_4.vcxproj" Id="b1cddf52-ae98-43b6-9b20-6147c15c282e" />
+  <Project Path="Graphic_LR_5/Graphic_LR_5.vcxproj" Id="2784c7b7-a93d-4636-a96c-e5b86e6bee64" />
+  <Project Path="Graphic_LR_6/Graphic_LR_6.vcxproj" Id="c84a7672-d0c2-445c-98d8-6a6257e87c4f" />
+  <Project Path="Graphic_LR_7/Graphic_LR_7.vcxproj" Id="ed2309a6-74e0-4e96-9241-e6ed4d1eddb1" />
+</Solution>
